@@ -60,9 +60,10 @@ O sistema é organizado nos seguintes módulos:
 
 ## 🚀 **Como Usar**
 
-1. Baixe o arquivo `.xlsm` do repositório.
-2. Habilite macros no Excel (necessário para o funcionamento do VBA).
-3. Use o menu principal para navegar entre as funcionalidades do sistema.
+1. Baixe o arquivo todos os arquivos do repositório (é importante manter todos os arquvivos na pasta para evitar problemas de diretórios).
+2. Os componentes estão protegidos com senha, que está contida na pasta "info".
+3. Habilite macros no Excel (necessário para o funcionamento do VBA).
+4. Use o menu principal para navegar entre as funcionalidades do sistema.
 
 ---
 
