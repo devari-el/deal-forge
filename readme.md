@@ -16,7 +16,7 @@
    - Listagem de produtos com busca e filtros.
    - Controle de estoque (opcional).
 
-3. **Gerenciamento de Clientes (ainda não implementada)**
+3. **Gerenciamento de Clientes**
    - Cadastro de clientes com informações como nome, endereço, e contato.
    - Histórico de orçamentos associados a cada cliente.
    - Busca avançada de clientes cadastrados.
