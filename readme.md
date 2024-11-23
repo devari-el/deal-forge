@@ -11,7 +11,7 @@
    - Controle de permissões (admin/usuário comum).
    - Login e autenticação com senha.
 
-2. **Gerenciamento de Produtos (ainda não implementada)**
+2. **Gerenciamento de Produtos**
    - Cadastro e edição de produtos com informações detalhadas, como preço, descrição e categoria.
    - Listagem de produtos com busca e filtros.
    - Controle de estoque (opcional).
