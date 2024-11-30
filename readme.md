@@ -21,7 +21,7 @@
    - Histórico de orçamentos associados a cada cliente.
    - Busca avançada de clientes cadastrados.
 
-4. **Emissão e Controle de Orçamentos (ainda não implementada)**
+4. **Emissão e Controle de Orçamentos
    - Criação de orçamentos personalizados com itens selecionados e preços calculados automaticamente.
    - Histórico de orçamentos para acompanhamento.
    - Exportação de orçamentos para PDF ou impressão direta.
